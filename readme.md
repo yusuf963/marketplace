@@ -1,3 +1,6 @@
+## Before going though the code base, its highly recommended to go though the offical Django documentation here
+https://www.djangoproject.com/  
+
 ## Run virtual env
 `virtualenv -p python3.8 .`
 ## Install virtual env
